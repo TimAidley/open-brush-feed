@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Tim's Tilt Brush Sketches Test</title>
+  <link>https://heavenly-upbeat-scorpion.glitch.me/sketches.rss</link>
+  <description>A list of sketches</description>
+  <item>
+    <title>Pillars of Creation</title>
+    <author>Rosie Summers</author>
+    <link>https://cdn.glitch.global/694d720a-f524-466f-87f0-97bdcfdde41c/pillars-of-creation%20by%20Rosie%20Summers..tilt?v=1677476730004</link>
+    <enclosure url="https://cdn.glitch.global/694d720a-f524-466f-87f0-97bdcfdde41c/pillars-of-creation.png?v=1677476714226" length="103260" type="image/png" />
+    <description>A cool sketch by rosie</description>
+  </item>
+</channel>
+
+</rss>
